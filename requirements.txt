@@ -1,0 +1,2 @@
+# System dependency (not installed by pip): MKVToolNix (mkvextract, mkvinfo).
+mutagen>=1.44,<2
